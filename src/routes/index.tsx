@@ -45,6 +45,11 @@ export const routes: RouteType[] = [
         name: '输入框',
       },
       {
+        id: 'ProTable',
+        path: '/pro_table',
+        name: '高级表格',
+      },
+      {
         id: 'SignaturePad',
         path: '/signature_pad',
         name: '签名板',
